@@ -10,3 +10,4 @@
         <Button x:Name="OpenButton" Content="開啟新文件" HorizontalAlignment="Left" Margin="279,122,0,0" VerticalAlignment="Top" Height="95" Width="213" FontSize="22" Click="OpenButton_Click"/>
     </Grid>
 </Window>
+ 
